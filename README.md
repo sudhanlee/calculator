@@ -3,4 +3,4 @@ C programmed calculator with vector,matrix,basics,fraction,AP,GP and few cryptog
 
 ## Command:
 
-```gcc Calculator.c -o Calculator```
+```gcc Calculator.c -lm -o Calculator```
